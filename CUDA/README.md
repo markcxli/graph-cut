@@ -1,6 +1,6 @@
 ## Author: Chenxi Li
 
-## The source codes in this folder are individual work from Chenxi Li for EC527 Final Project
+## The source code in this folder is the individual work of Chenxi Li for EC527 Final Project
 
 ## To Run:
 1. Install python3
